@@ -13,7 +13,11 @@ Natalia Barraza: Preprocesamiento de datos, implementación código de método d
 
 Observación:
 
-El entrenamiento de todos los modelos demora app entre 1,5 y 2 horas, la parte de voting demora app 15 minutos, por lo que en el repositorio se adjunta modelos entrenados, predicciones realizadas de cada modelo y archivo comparativo que muestra el parámetro que cambio por modelo y el f1 que se obtuvo (este archivo se muestra como df al final del código).
+El entrenamiento de todos los modelos demora app entre 1,5 y 2 horas, la parte de voting demora app 15 minutos, por lo que en el repositorio se adjunta predicciones realizadas de cada modelo y archivo comparativo para observar como cambia f1 según el modelo y parámetro elegido (este archivo se muestra como df al final del código).
+La parte del voting, si se quisiera confirmar los resultados, se puede ejecutar sin necesidad de ejecutar la celda anterior con los demás modelos. 
 
-Links fuentes: 1)https://arnaudunjo.com/es/2021/04/25/machine-learning-modelo-clasificador-de-textos-en-python/
-               2)https://www.arsys.es/blog/clasificaciontextos-python-jupyternotebooks 
+Links fuentes: 
+1)https://arnaudunjo.com/es/2021/04/25/machine-learning-modelo-clasificador-de-textos-en-python/
+2)https://www.arsys.es/blog/clasificaciontextos-python-jupyternotebooks 
+
+Los modelos entrenados se quisieron adjuntar pero estos pesaban mucho (en particular randomforest y voting entre 500 mb y 2 gb)
