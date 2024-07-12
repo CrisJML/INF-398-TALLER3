@@ -7,9 +7,9 @@ Se declara por parte de los integrantes Natalia Barraza y Cristian Marín que es
 
 División del trabajo:
 
-Cristian Marín: 
+Cristian Marín: Elección de modelos a entrenar, desarrollo del código de entrenamiento de los modelos.
 
-Natalia Barraza: 
+Natalia Barraza: Preprocesamiento de datos, implementación código de método de ensamble de mayor votación.
 
 Observación:
 
